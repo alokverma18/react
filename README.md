@@ -1,3 +1,3 @@
-# react
+# React 🌐
 
-A repository of some small React projects.
+Basic React projects.
